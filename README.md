@@ -5,4 +5,5 @@ test 2.
 comparing versions.
 my favourite food.
 
-hi
+chocolate!
+
