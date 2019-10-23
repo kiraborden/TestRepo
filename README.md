@@ -4,4 +4,4 @@ Next change inserted.
 test 1.
 test 2.
 comparing versions.
-my favourite colour.
+my favourite food.
