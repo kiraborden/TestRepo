@@ -1,5 +1,5 @@
 This is a README for my first Git repo.
-My name is Kira.
+My name is Kira Alia.
 Next change inserted.
 test 1.
 test 2.
