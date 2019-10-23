@@ -4,3 +4,4 @@ test 1.
 test 2.
 comparing versions.
 my favourite food.
+chocolate!
